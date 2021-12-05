@@ -13,3 +13,5 @@ sampleFileWrite.close()
 sampleFileAppend=open(os.path.abspath('./data/sample2.txt'), 'a')
 sampleFileAppend.write('hey hey dude')
 sampleFileAppend.close()
+
+# shutil module for copy-move files
