@@ -18,3 +18,8 @@ print(spam1.lstrip())
 print("{1} - {0}".format('f','s'))
 
 print("Hello %s, how %s you ?" % ('amit','are'))
+
+print("c:\\spam\\eggs")
+print(r"c:\spam\eggs")
+
+print('\\'.join(['folder1','folder2','file.png']))
