@@ -1,1 +1,8 @@
-hey hey dudehey hey dudehey hey dudehey hey dudehey hey dude
+hey hey dudehey hey dudehey hey dudehey hey dudehey hey dudeTraceback (most recent call last):
+  File "raise-assert-exception.py", line 5, in <module>
+    raise('This is custom exception')
+TypeError: exceptions must derive from BaseException
+Traceback (most recent call last):
+  File "raise-assert-exception.py", line 5, in <module>
+    raise('This is custom exception')
+TypeError: exceptions must derive from BaseException
